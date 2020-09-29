@@ -1,0 +1,2 @@
+18	|	Adresse 2	|	7291	|	Vejle	|	9022	|	False	|	2019	|	An image
+19	|	finlandsvej119	|	7100	|	Vejle	|	9022	|	False	|	8000	|	
