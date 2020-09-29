@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\Opgavermedmetoder\Opgavermedmetoder\bin\Debug\Opgavermedmetoder.exe.config
+C:\Users\Christian\source\repos\Opgavermedmetoder\Opgavermedmetoder\bin\Debug\Opgavermedmetoder.exe
+C:\Users\Christian\source\repos\Opgavermedmetoder\Opgavermedmetoder\bin\Debug\Opgavermedmetoder.pdb
+C:\Users\Christian\source\repos\Opgavermedmetoder\Opgavermedmetoder\obj\Debug\Opgavermedmetoder.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Opgavermedmetoder\Opgavermedmetoder\obj\Debug\Opgavermedmetoder.exe
+C:\Users\Christian\source\repos\Opgavermedmetoder\Opgavermedmetoder\obj\Debug\Opgavermedmetoder.pdb

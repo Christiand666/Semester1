@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\test af binary\test af binary\bin\Debug\test af binary.exe.config
+C:\Users\Christian\source\repos\test af binary\test af binary\bin\Debug\test af binary.exe
+C:\Users\Christian\source\repos\test af binary\test af binary\bin\Debug\test af binary.pdb
+C:\Users\Christian\source\repos\test af binary\test af binary\obj\Debug\test af binary.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\test af binary\test af binary\obj\Debug\test af binary.exe
+C:\Users\Christian\source\repos\test af binary\test af binary\obj\Debug\test af binary.pdb

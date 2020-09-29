@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\objecter til filer2\objecter til filer2\bin\Debug\objecter til filer2.exe.config
+C:\Users\Christian\source\repos\objecter til filer2\objecter til filer2\bin\Debug\objecter til filer2.exe
+C:\Users\Christian\source\repos\objecter til filer2\objecter til filer2\bin\Debug\objecter til filer2.pdb
+C:\Users\Christian\source\repos\objecter til filer2\objecter til filer2\obj\Debug\objecter til filer2.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\objecter til filer2\objecter til filer2\obj\Debug\objecter til filer2.exe
+C:\Users\Christian\source\repos\objecter til filer2\objecter til filer2\obj\Debug\objecter til filer2.pdb

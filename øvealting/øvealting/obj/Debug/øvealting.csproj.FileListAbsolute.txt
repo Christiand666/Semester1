@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\øvealting\øvealting\bin\Debug\øvealting.exe.config
+C:\Users\Christian\source\repos\øvealting\øvealting\bin\Debug\øvealting.exe
+C:\Users\Christian\source\repos\øvealting\øvealting\bin\Debug\øvealting.pdb
+C:\Users\Christian\source\repos\øvealting\øvealting\obj\Debug\øvealting.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\øvealting\øvealting\obj\Debug\øvealting.exe
+C:\Users\Christian\source\repos\øvealting\øvealting\obj\Debug\øvealting.pdb

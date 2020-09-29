@@ -1,0 +1,10 @@
+C:\Users\Christian\source\repos\Polymorfi\Polymorfi\bin\Debug\Polymorfi.exe.config
+C:\Users\Christian\source\repos\Polymorfi\Polymorfi\bin\Debug\Polymorfi.exe
+C:\Users\Christian\source\repos\Polymorfi\Polymorfi\bin\Debug\Polymorfi.pdb
+C:\Users\Christian\source\repos\Polymorfi\Polymorfi\obj\Debug\Polymorfi.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Polymorfi\Polymorfi\obj\Debug\Polymorfi.exe
+C:\Users\Christian\source\repos\Polymorfi\Polymorfi\obj\Debug\Polymorfi.pdb
+C:\Users\Christian\source\repos\Polymorfi\Polymorfi\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Christian\source\repos\Polymorfi\Polymorfi\bin\Debug\System.IO.Packaging.dll
+C:\Users\Christian\source\repos\Polymorfi\Polymorfi\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Christian\source\repos\Polymorfi\Polymorfi\obj\Debug\Polymorfi.csproj.CopyComplete

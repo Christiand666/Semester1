@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\kunde klasse\kunde klasse\obj\Debug\kunde klasse.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\kunde klasse\kunde klasse\bin\Debug\kunde klasse.exe.config
+C:\Users\Christian\source\repos\kunde klasse\kunde klasse\bin\Debug\kunde klasse.exe
+C:\Users\Christian\source\repos\kunde klasse\kunde klasse\bin\Debug\kunde klasse.pdb
+C:\Users\Christian\source\repos\kunde klasse\kunde klasse\obj\Debug\kunde klasse.exe
+C:\Users\Christian\source\repos\kunde klasse\kunde klasse\obj\Debug\kunde klasse.pdb

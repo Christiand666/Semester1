@@ -1,0 +1,6 @@
+C:\Users\chris\source\repos\txt object\txt object\bin\Debug\txt object.exe.config
+C:\Users\chris\source\repos\txt object\txt object\bin\Debug\txt object.exe
+C:\Users\chris\source\repos\txt object\txt object\bin\Debug\txt object.pdb
+C:\Users\chris\source\repos\txt object\txt object\obj\Debug\txt object.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\txt object\txt object\obj\Debug\txt object.exe
+C:\Users\chris\source\repos\txt object\txt object\obj\Debug\txt object.pdb

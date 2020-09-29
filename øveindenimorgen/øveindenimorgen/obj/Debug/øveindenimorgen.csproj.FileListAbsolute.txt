@@ -1,0 +1,6 @@
+C:\Users\chris\source\repos\øveindenimorgen\øveindenimorgen\bin\Debug\øveindenimorgen.exe.config
+C:\Users\chris\source\repos\øveindenimorgen\øveindenimorgen\bin\Debug\øveindenimorgen.exe
+C:\Users\chris\source\repos\øveindenimorgen\øveindenimorgen\bin\Debug\øveindenimorgen.pdb
+C:\Users\chris\source\repos\øveindenimorgen\øveindenimorgen\obj\Debug\øveindenimorgen.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\øveindenimorgen\øveindenimorgen\obj\Debug\øveindenimorgen.exe
+C:\Users\chris\source\repos\øveindenimorgen\øveindenimorgen\obj\Debug\øveindenimorgen.pdb

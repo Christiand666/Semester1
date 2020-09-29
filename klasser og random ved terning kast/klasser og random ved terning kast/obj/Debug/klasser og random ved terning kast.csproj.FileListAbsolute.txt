@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\klasser og random ved terning kast\klasser og random ved terning kast\bin\Debug\klasser og random ved terning kast.exe.config
+C:\Users\Christian\source\repos\klasser og random ved terning kast\klasser og random ved terning kast\bin\Debug\klasser og random ved terning kast.exe
+C:\Users\Christian\source\repos\klasser og random ved terning kast\klasser og random ved terning kast\bin\Debug\klasser og random ved terning kast.pdb
+C:\Users\Christian\source\repos\klasser og random ved terning kast\klasser og random ved terning kast\obj\Debug\klasser og random ved terning kast.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\klasser og random ved terning kast\klasser og random ved terning kast\obj\Debug\klasser og random ved terning kast.exe
+C:\Users\Christian\source\repos\klasser og random ved terning kast\klasser og random ved terning kast\obj\Debug\klasser og random ved terning kast.pdb

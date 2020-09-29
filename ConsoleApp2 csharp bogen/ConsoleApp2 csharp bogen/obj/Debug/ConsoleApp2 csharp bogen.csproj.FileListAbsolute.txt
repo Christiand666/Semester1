@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\ConsoleApp2 csharp bogen\ConsoleApp2 csharp bogen\bin\Debug\ConsoleApp2 csharp bogen.exe.config
+C:\Users\Christian\source\repos\ConsoleApp2 csharp bogen\ConsoleApp2 csharp bogen\bin\Debug\ConsoleApp2 csharp bogen.exe
+C:\Users\Christian\source\repos\ConsoleApp2 csharp bogen\ConsoleApp2 csharp bogen\bin\Debug\ConsoleApp2 csharp bogen.pdb
+C:\Users\Christian\source\repos\ConsoleApp2 csharp bogen\ConsoleApp2 csharp bogen\obj\Debug\ConsoleApp2 csharp bogen.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\ConsoleApp2 csharp bogen\ConsoleApp2 csharp bogen\obj\Debug\ConsoleApp2 csharp bogen.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\ConsoleApp2 csharp bogen\ConsoleApp2 csharp bogen\obj\Debug\ConsoleApp2 csharp bogen.exe
+C:\Users\Christian\source\repos\ConsoleApp2 csharp bogen\ConsoleApp2 csharp bogen\obj\Debug\ConsoleApp2 csharp bogen.pdb

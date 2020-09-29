@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\metodergennemgangarray\metodergennemgangarray\bin\Debug\metodergennemgangarray.exe.config
+C:\Users\Christian\source\repos\metodergennemgangarray\metodergennemgangarray\bin\Debug\metodergennemgangarray.exe
+C:\Users\Christian\source\repos\metodergennemgangarray\metodergennemgangarray\bin\Debug\metodergennemgangarray.pdb
+C:\Users\Christian\source\repos\metodergennemgangarray\metodergennemgangarray\obj\Debug\metodergennemgangarray.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\metodergennemgangarray\metodergennemgangarray\obj\Debug\metodergennemgangarray.exe
+C:\Users\Christian\source\repos\metodergennemgangarray\metodergennemgangarray\obj\Debug\metodergennemgangarray.pdb

@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\TabelIarray\TabelIarray\bin\Debug\TabelIarray.exe.config
+C:\Users\Christian\source\repos\TabelIarray\TabelIarray\bin\Debug\TabelIarray.exe
+C:\Users\Christian\source\repos\TabelIarray\TabelIarray\bin\Debug\TabelIarray.pdb
+C:\Users\Christian\source\repos\TabelIarray\TabelIarray\obj\Debug\TabelIarray.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\TabelIarray\TabelIarray\obj\Debug\TabelIarray.exe
+C:\Users\Christian\source\repos\TabelIarray\TabelIarray\obj\Debug\TabelIarray.pdb

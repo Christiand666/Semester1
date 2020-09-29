@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\fugleopgave12\fugleopgave12\bin\Debug\fugleopgave12.exe.config
+C:\Users\Christian\source\repos\fugleopgave12\fugleopgave12\bin\Debug\fugleopgave12.exe
+C:\Users\Christian\source\repos\fugleopgave12\fugleopgave12\bin\Debug\fugleopgave12.pdb
+C:\Users\Christian\source\repos\fugleopgave12\fugleopgave12\obj\Debug\fugleopgave12.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\fugleopgave12\fugleopgave12\obj\Debug\fugleopgave12.exe
+C:\Users\Christian\source\repos\fugleopgave12\fugleopgave12\obj\Debug\fugleopgave12.pdb

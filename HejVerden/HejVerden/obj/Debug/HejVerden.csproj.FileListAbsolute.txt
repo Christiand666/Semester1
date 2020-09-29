@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\HejVerden\HejVerden\bin\Debug\HejVerden.exe.config
+C:\Users\Christian\source\repos\HejVerden\HejVerden\bin\Debug\HejVerden.exe
+C:\Users\Christian\source\repos\HejVerden\HejVerden\bin\Debug\HejVerden.pdb
+C:\Users\Christian\source\repos\HejVerden\HejVerden\obj\Debug\HejVerden.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\HejVerden\HejVerden\obj\Debug\HejVerden.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\HejVerden\HejVerden\obj\Debug\HejVerden.exe
+C:\Users\Christian\source\repos\HejVerden\HejVerden\obj\Debug\HejVerden.pdb

@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\Binery\Binery\bin\Debug\Binery.exe.config
+C:\Users\Christian\source\repos\Binery\Binery\bin\Debug\Binery.exe
+C:\Users\Christian\source\repos\Binery\Binery\bin\Debug\Binery.pdb
+C:\Users\Christian\source\repos\Binery\Binery\obj\Debug\Binery.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Binery\Binery\obj\Debug\Binery.exe
+C:\Users\Christian\source\repos\Binery\Binery\obj\Debug\Binery.pdb

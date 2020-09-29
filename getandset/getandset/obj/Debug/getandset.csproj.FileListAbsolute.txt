@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\getandset\getandset\bin\Debug\getandset.exe.config
+C:\Users\Christian\source\repos\getandset\getandset\bin\Debug\getandset.exe
+C:\Users\Christian\source\repos\getandset\getandset\bin\Debug\getandset.pdb
+C:\Users\Christian\source\repos\getandset\getandset\obj\Debug\getandset.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\getandset\getandset\obj\Debug\getandset.exe
+C:\Users\Christian\source\repos\getandset\getandset\obj\Debug\getandset.pdb

@@ -1,0 +1,9 @@
+C:\Users\Christian\source\repos\Windows forms\Windows forms\bin\Debug\Windows forms.exe.config
+C:\Users\Christian\source\repos\Windows forms\Windows forms\bin\Debug\Windows forms.exe
+C:\Users\Christian\source\repos\Windows forms\Windows forms\bin\Debug\Windows forms.pdb
+C:\Users\Christian\source\repos\Windows forms\Windows forms\obj\Debug\Windows forms.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Windows forms\Windows forms\obj\Debug\Windows_forms.Form1.resources
+C:\Users\Christian\source\repos\Windows forms\Windows forms\obj\Debug\Windows_forms.Properties.Resources.resources
+C:\Users\Christian\source\repos\Windows forms\Windows forms\obj\Debug\Windows forms.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\Windows forms\Windows forms\obj\Debug\Windows forms.exe
+C:\Users\Christian\source\repos\Windows forms\Windows forms\obj\Debug\Windows forms.pdb

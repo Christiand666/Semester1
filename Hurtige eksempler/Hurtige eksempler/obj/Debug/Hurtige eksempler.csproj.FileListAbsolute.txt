@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\Hurtige eksempler\Hurtige eksempler\bin\Debug\Hurtige eksempler.exe.config
+C:\Users\Christian\source\repos\Hurtige eksempler\Hurtige eksempler\bin\Debug\Hurtige eksempler.exe
+C:\Users\Christian\source\repos\Hurtige eksempler\Hurtige eksempler\bin\Debug\Hurtige eksempler.pdb
+C:\Users\Christian\source\repos\Hurtige eksempler\Hurtige eksempler\obj\Debug\Hurtige eksempler.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Hurtige eksempler\Hurtige eksempler\obj\Debug\Hurtige eksempler.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Hurtige eksempler\Hurtige eksempler\obj\Debug\Hurtige eksempler.exe
+C:\Users\Christian\source\repos\Hurtige eksempler\Hurtige eksempler\obj\Debug\Hurtige eksempler.pdb

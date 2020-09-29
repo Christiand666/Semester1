@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\Opgave 10 med reverse\Opgave 10 med reverse\bin\Debug\Opgave 10 med reverse.exe.config
+C:\Users\Christian\source\repos\Opgave 10 med reverse\Opgave 10 med reverse\bin\Debug\Opgave 10 med reverse.exe
+C:\Users\Christian\source\repos\Opgave 10 med reverse\Opgave 10 med reverse\bin\Debug\Opgave 10 med reverse.pdb
+C:\Users\Christian\source\repos\Opgave 10 med reverse\Opgave 10 med reverse\obj\Debug\Opgave 10 med reverse.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Opgave 10 med reverse\Opgave 10 med reverse\obj\Debug\Opgave 10 med reverse.exe
+C:\Users\Christian\source\repos\Opgave 10 med reverse\Opgave 10 med reverse\obj\Debug\Opgave 10 med reverse.pdb

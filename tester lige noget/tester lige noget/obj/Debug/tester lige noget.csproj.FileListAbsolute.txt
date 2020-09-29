@@ -1,0 +1,6 @@
+C:\Users\chris\source\repos\tester lige noget\tester lige noget\bin\Debug\tester lige noget.exe.config
+C:\Users\chris\source\repos\tester lige noget\tester lige noget\bin\Debug\tester lige noget.exe
+C:\Users\chris\source\repos\tester lige noget\tester lige noget\bin\Debug\tester lige noget.pdb
+C:\Users\chris\source\repos\tester lige noget\tester lige noget\obj\Debug\tester lige noget.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\tester lige noget\tester lige noget\obj\Debug\tester lige noget.exe
+C:\Users\chris\source\repos\tester lige noget\tester lige noget\obj\Debug\tester lige noget.pdb

@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\metodekald opgaver\metodekald opgaver\bin\Debug\metodekald opgaver.exe.config
+C:\Users\Christian\source\repos\metodekald opgaver\metodekald opgaver\bin\Debug\metodekald opgaver.exe
+C:\Users\Christian\source\repos\metodekald opgaver\metodekald opgaver\bin\Debug\metodekald opgaver.pdb
+C:\Users\Christian\source\repos\metodekald opgaver\metodekald opgaver\obj\Debug\metodekald opgaver.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\metodekald opgaver\metodekald opgaver\obj\Debug\metodekald opgaver.exe
+C:\Users\Christian\source\repos\metodekald opgaver\metodekald opgaver\obj\Debug\metodekald opgaver.pdb

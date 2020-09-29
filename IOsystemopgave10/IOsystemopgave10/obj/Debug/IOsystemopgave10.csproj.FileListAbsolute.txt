@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\IOsystemopgave10\IOsystemopgave10\obj\Debug\IOsystemopgave10.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\IOsystemopgave10\IOsystemopgave10\obj\Debug\IOsystemopgave10.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\IOsystemopgave10\IOsystemopgave10\bin\Debug\IOsystemopgave10.exe.config
+C:\Users\Christian\source\repos\IOsystemopgave10\IOsystemopgave10\bin\Debug\IOsystemopgave10.exe
+C:\Users\Christian\source\repos\IOsystemopgave10\IOsystemopgave10\bin\Debug\IOsystemopgave10.pdb
+C:\Users\Christian\source\repos\IOsystemopgave10\IOsystemopgave10\obj\Debug\IOsystemopgave10.exe
+C:\Users\Christian\source\repos\IOsystemopgave10\IOsystemopgave10\obj\Debug\IOsystemopgave10.pdb

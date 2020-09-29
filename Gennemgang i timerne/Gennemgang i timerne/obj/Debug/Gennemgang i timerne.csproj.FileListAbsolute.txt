@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\Gennemgang i timerne\Gennemgang i timerne\bin\Debug\Gennemgang i timerne.exe.config
+C:\Users\Christian\source\repos\Gennemgang i timerne\Gennemgang i timerne\bin\Debug\Gennemgang i timerne.exe
+C:\Users\Christian\source\repos\Gennemgang i timerne\Gennemgang i timerne\bin\Debug\Gennemgang i timerne.pdb
+C:\Users\Christian\source\repos\Gennemgang i timerne\Gennemgang i timerne\obj\Debug\Gennemgang i timerne.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Gennemgang i timerne\Gennemgang i timerne\obj\Debug\Gennemgang i timerne.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Gennemgang i timerne\Gennemgang i timerne\obj\Debug\Gennemgang i timerne.exe
+C:\Users\Christian\source\repos\Gennemgang i timerne\Gennemgang i timerne\obj\Debug\Gennemgang i timerne.pdb

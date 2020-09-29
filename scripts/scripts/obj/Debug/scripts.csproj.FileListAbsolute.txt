@@ -1,0 +1,2 @@
+C:\Users\Christian\source\repos\scripts\scripts\obj\Debug\scripts.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\scripts\scripts\obj\Debug\scripts.csproj.CoreCompileInputs.cache

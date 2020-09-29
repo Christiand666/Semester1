@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\Metoder\Metoder\bin\Debug\Metoder.exe.config
+C:\Users\Christian\source\repos\Metoder\Metoder\bin\Debug\Metoder.exe
+C:\Users\Christian\source\repos\Metoder\Metoder\bin\Debug\Metoder.pdb
+C:\Users\Christian\source\repos\Metoder\Metoder\obj\Debug\Metoder.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Metoder\Metoder\obj\Debug\Metoder.exe
+C:\Users\Christian\source\repos\Metoder\Metoder\obj\Debug\Metoder.pdb

@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\Skudårrmedarray\Skudårrmedarray\bin\Debug\Skudårrmedarray.exe.config
+C:\Users\Christian\source\repos\Skudårrmedarray\Skudårrmedarray\bin\Debug\Skudårrmedarray.exe
+C:\Users\Christian\source\repos\Skudårrmedarray\Skudårrmedarray\bin\Debug\Skudårrmedarray.pdb
+C:\Users\Christian\source\repos\Skudårrmedarray\Skudårrmedarray\obj\Debug\Skudårrmedarray.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Skudårrmedarray\Skudårrmedarray\obj\Debug\Skudårrmedarray.exe
+C:\Users\Christian\source\repos\Skudårrmedarray\Skudårrmedarray\obj\Debug\Skudårrmedarray.pdb

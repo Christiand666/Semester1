@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\reduction\reduction\bin\Debug\reduction.exe.config
+C:\Users\Christian\source\repos\reduction\reduction\bin\Debug\reduction.exe
+C:\Users\Christian\source\repos\reduction\reduction\bin\Debug\reduction.pdb
+C:\Users\Christian\source\repos\reduction\reduction\obj\Debug\reduction.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\reduction\reduction\obj\Debug\reduction.exe
+C:\Users\Christian\source\repos\reduction\reduction\obj\Debug\reduction.pdb

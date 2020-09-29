@@ -1,0 +1,10 @@
+C:\Users\Christian\source\repos\åbnebilleder\åbnebilleder\obj\Debug\åbnebilleder.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\åbnebilleder\åbnebilleder\obj\Debug\åbnebilleder.Form1.resources
+C:\Users\Christian\source\repos\åbnebilleder\åbnebilleder\obj\Debug\åbnebilleder.Form2.resources
+C:\Users\Christian\source\repos\åbnebilleder\åbnebilleder\obj\Debug\åbnebilleder.Properties.Resources.resources
+C:\Users\Christian\source\repos\åbnebilleder\åbnebilleder\obj\Debug\åbnebilleder.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\åbnebilleder\åbnebilleder\bin\Debug\åbnebilleder.exe.config
+C:\Users\Christian\source\repos\åbnebilleder\åbnebilleder\bin\Debug\åbnebilleder.exe
+C:\Users\Christian\source\repos\åbnebilleder\åbnebilleder\bin\Debug\åbnebilleder.pdb
+C:\Users\Christian\source\repos\åbnebilleder\åbnebilleder\obj\Debug\åbnebilleder.exe
+C:\Users\Christian\source\repos\åbnebilleder\åbnebilleder\obj\Debug\åbnebilleder.pdb

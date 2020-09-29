@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\Skudår\Skudår\bin\Debug\Skudår.exe.config
+C:\Users\Christian\source\repos\Skudår\Skudår\bin\Debug\Skudår.exe
+C:\Users\Christian\source\repos\Skudår\Skudår\bin\Debug\Skudår.pdb
+C:\Users\Christian\source\repos\Skudår\Skudår\obj\Debug\Skudår.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Skudår\Skudår\obj\Debug\Skudår.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Skudår\Skudår\obj\Debug\Skudår.exe
+C:\Users\Christian\source\repos\Skudår\Skudår\obj\Debug\Skudår.pdb

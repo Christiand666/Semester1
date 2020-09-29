@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\Opgaver 1-5\Opgaver 1-5\bin\Debug\Opgaver 1-5.exe.config
+C:\Users\Christian\source\repos\Opgaver 1-5\Opgaver 1-5\bin\Debug\Opgaver 1-5.exe
+C:\Users\Christian\source\repos\Opgaver 1-5\Opgaver 1-5\bin\Debug\Opgaver 1-5.pdb
+C:\Users\Christian\source\repos\Opgaver 1-5\Opgaver 1-5\obj\Debug\Opgaver 1-5.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Opgaver 1-5\Opgaver 1-5\obj\Debug\Opgaver 1-5.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Opgaver 1-5\Opgaver 1-5\obj\Debug\Opgaver 1-5.exe
+C:\Users\Christian\source\repos\Opgaver 1-5\Opgaver 1-5\obj\Debug\Opgaver 1-5.pdb

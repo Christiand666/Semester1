@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\Opgave\Opgave\obj\Debug\Opgave.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Opgave\Opgave\obj\Debug\Opgave.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Opgave\Opgave\bin\Debug\Opgave.exe.config
+C:\Users\Christian\source\repos\Opgave\Opgave\bin\Debug\Opgave.exe
+C:\Users\Christian\source\repos\Opgave\Opgave\bin\Debug\Opgave.pdb
+C:\Users\Christian\source\repos\Opgave\Opgave\obj\Debug\Opgave.exe
+C:\Users\Christian\source\repos\Opgave\Opgave\obj\Debug\Opgave.pdb

@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\studerendetest\studerendetest\obj\Debug\studerendetest.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\studerendetest\studerendetest\bin\Debug\studerendetest.exe.config
+C:\Users\Christian\source\repos\studerendetest\studerendetest\bin\Debug\studerendetest.exe
+C:\Users\Christian\source\repos\studerendetest\studerendetest\bin\Debug\studerendetest.pdb
+C:\Users\Christian\source\repos\studerendetest\studerendetest\obj\Debug\studerendetest.exe
+C:\Users\Christian\source\repos\studerendetest\studerendetest\obj\Debug\studerendetest.pdb

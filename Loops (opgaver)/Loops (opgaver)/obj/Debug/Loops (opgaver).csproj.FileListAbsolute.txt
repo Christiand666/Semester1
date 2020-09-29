@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\Loops (opgaver)\Loops (opgaver)\bin\Debug\Loops (opgaver).exe.config
+C:\Users\Christian\source\repos\Loops (opgaver)\Loops (opgaver)\bin\Debug\Loops (opgaver).exe
+C:\Users\Christian\source\repos\Loops (opgaver)\Loops (opgaver)\bin\Debug\Loops (opgaver).pdb
+C:\Users\Christian\source\repos\Loops (opgaver)\Loops (opgaver)\obj\Debug\Loops (opgaver).csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Loops (opgaver)\Loops (opgaver)\obj\Debug\Loops (opgaver).csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Loops (opgaver)\Loops (opgaver)\obj\Debug\Loops (opgaver).exe
+C:\Users\Christian\source\repos\Loops (opgaver)\Loops (opgaver)\obj\Debug\Loops (opgaver).pdb

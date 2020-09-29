@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\binære filer\binære filer\obj\Debug\binære filer.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\binære filer\binære filer\obj\Debug\binære filer.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\binære filer\binære filer\bin\Debug\binære filer.exe.config
+C:\Users\Christian\source\repos\binære filer\binære filer\bin\Debug\binære filer.exe
+C:\Users\Christian\source\repos\binære filer\binære filer\bin\Debug\binære filer.pdb
+C:\Users\Christian\source\repos\binære filer\binære filer\obj\Debug\binære filer.exe
+C:\Users\Christian\source\repos\binære filer\binære filer\obj\Debug\binære filer.pdb

@@ -1,0 +1,9 @@
+C:\Users\Christian\source\repos\lommeregner\lommeregner\bin\Debug\lommeregner.exe.config
+C:\Users\Christian\source\repos\lommeregner\lommeregner\bin\Debug\lommeregner.exe
+C:\Users\Christian\source\repos\lommeregner\lommeregner\bin\Debug\lommeregner.pdb
+C:\Users\Christian\source\repos\lommeregner\lommeregner\obj\Debug\lommeregner.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\lommeregner\lommeregner\obj\Debug\lommeregner.Form1.resources
+C:\Users\Christian\source\repos\lommeregner\lommeregner\obj\Debug\lommeregner.Properties.Resources.resources
+C:\Users\Christian\source\repos\lommeregner\lommeregner\obj\Debug\lommeregner.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\lommeregner\lommeregner\obj\Debug\lommeregner.exe
+C:\Users\Christian\source\repos\lommeregner\lommeregner\obj\Debug\lommeregner.pdb

@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\Gemme til binære filer\Gemme til binære filer\bin\Debug\Gemme til binære filer.exe.config
+C:\Users\Christian\source\repos\Gemme til binære filer\Gemme til binære filer\bin\Debug\Gemme til binære filer.exe
+C:\Users\Christian\source\repos\Gemme til binære filer\Gemme til binære filer\bin\Debug\Gemme til binære filer.pdb
+C:\Users\Christian\source\repos\Gemme til binære filer\Gemme til binære filer\obj\Debug\Gemme til binære filer.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Gemme til binære filer\Gemme til binære filer\obj\Debug\Gemme til binære filer.exe
+C:\Users\Christian\source\repos\Gemme til binære filer\Gemme til binære filer\obj\Debug\Gemme til binære filer.pdb

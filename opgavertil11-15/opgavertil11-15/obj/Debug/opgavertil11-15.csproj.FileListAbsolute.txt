@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\opgavertil11-15\opgavertil11-15\bin\Debug\opgavertil11-15.exe.config
+C:\Users\Christian\source\repos\opgavertil11-15\opgavertil11-15\bin\Debug\opgavertil11-15.exe
+C:\Users\Christian\source\repos\opgavertil11-15\opgavertil11-15\bin\Debug\opgavertil11-15.pdb
+C:\Users\Christian\source\repos\opgavertil11-15\opgavertil11-15\obj\Debug\opgavertil11-15.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\opgavertil11-15\opgavertil11-15\obj\Debug\opgavertil11-15.exe
+C:\Users\Christian\source\repos\opgavertil11-15\opgavertil11-15\obj\Debug\opgavertil11-15.pdb

@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\Opgaver ark 6\Opgaver ark 6\bin\Debug\Opgaver ark 6.exe.config
+C:\Users\Christian\source\repos\Opgaver ark 6\Opgaver ark 6\bin\Debug\Opgaver ark 6.exe
+C:\Users\Christian\source\repos\Opgaver ark 6\Opgaver ark 6\bin\Debug\Opgaver ark 6.pdb
+C:\Users\Christian\source\repos\Opgaver ark 6\Opgaver ark 6\obj\Debug\Opgaver ark 6.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Opgaver ark 6\Opgaver ark 6\obj\Debug\Opgaver ark 6.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Opgaver ark 6\Opgaver ark 6\obj\Debug\Opgaver ark 6.exe
+C:\Users\Christian\source\repos\Opgaver ark 6\Opgaver ark 6\obj\Debug\Opgaver ark 6.pdb

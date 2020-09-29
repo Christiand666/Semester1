@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\gennemgangitimerne\gennemgangitimerne\bin\Debug\gennemgangitimerne.exe.config
+C:\Users\Christian\source\repos\gennemgangitimerne\gennemgangitimerne\bin\Debug\gennemgangitimerne.exe
+C:\Users\Christian\source\repos\gennemgangitimerne\gennemgangitimerne\bin\Debug\gennemgangitimerne.pdb
+C:\Users\Christian\source\repos\gennemgangitimerne\gennemgangitimerne\obj\Debug\gennemgangitimerne.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\gennemgangitimerne\gennemgangitimerne\obj\Debug\gennemgangitimerne.exe
+C:\Users\Christian\source\repos\gennemgangitimerne\gennemgangitimerne\obj\Debug\gennemgangitimerne.pdb

@@ -1,0 +1,9 @@
+C:\Users\Christian\source\repos\Procejt cargame\Procejt cargame\bin\Debug\Procejt cargame.exe.config
+C:\Users\Christian\source\repos\Procejt cargame\Procejt cargame\bin\Debug\Procejt cargame.exe
+C:\Users\Christian\source\repos\Procejt cargame\Procejt cargame\bin\Debug\Procejt cargame.pdb
+C:\Users\Christian\source\repos\Procejt cargame\Procejt cargame\obj\Debug\Procejt cargame.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Procejt cargame\Procejt cargame\obj\Debug\Procejt_cargame.CarGame.resources
+C:\Users\Christian\source\repos\Procejt cargame\Procejt cargame\obj\Debug\Procejt_cargame.Properties.Resources.resources
+C:\Users\Christian\source\repos\Procejt cargame\Procejt cargame\obj\Debug\Procejt cargame.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\Procejt cargame\Procejt cargame\obj\Debug\Procejt cargame.exe
+C:\Users\Christian\source\repos\Procejt cargame\Procejt cargame\obj\Debug\Procejt cargame.pdb

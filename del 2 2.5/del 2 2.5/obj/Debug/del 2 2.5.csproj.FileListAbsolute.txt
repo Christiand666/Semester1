@@ -1,0 +1,3 @@
+C:\Users\Christian\source\repos\del 2 2.5\del 2 2.5\obj\Debug\del 2 2.5.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\del 2 2.5\del 2 2.5\obj\Debug\del 2 2.5.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\del 2 2.5\del 2 2.5\obj\Debug\del 2 2.5.csprojAssemblyReference.cache

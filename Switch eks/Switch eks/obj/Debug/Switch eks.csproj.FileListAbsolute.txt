@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\Switch eks\Switch eks\obj\Debug\Switch eks.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Switch eks\Switch eks\obj\Debug\Switch eks.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Switch eks\Switch eks\bin\Debug\Switch eks.exe.config
+C:\Users\Christian\source\repos\Switch eks\Switch eks\bin\Debug\Switch eks.exe
+C:\Users\Christian\source\repos\Switch eks\Switch eks\bin\Debug\Switch eks.pdb
+C:\Users\Christian\source\repos\Switch eks\Switch eks\obj\Debug\Switch eks.exe
+C:\Users\Christian\source\repos\Switch eks\Switch eks\obj\Debug\Switch eks.pdb

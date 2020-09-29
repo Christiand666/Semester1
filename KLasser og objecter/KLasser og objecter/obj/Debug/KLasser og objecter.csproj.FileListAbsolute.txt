@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\KLasser og objecter\KLasser og objecter\bin\Debug\KLasser og objecter.exe.config
+C:\Users\Christian\source\repos\KLasser og objecter\KLasser og objecter\bin\Debug\KLasser og objecter.exe
+C:\Users\Christian\source\repos\KLasser og objecter\KLasser og objecter\bin\Debug\KLasser og objecter.pdb
+C:\Users\Christian\source\repos\KLasser og objecter\KLasser og objecter\obj\Debug\KLasser og objecter.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\KLasser og objecter\KLasser og objecter\obj\Debug\KLasser og objecter.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\KLasser og objecter\KLasser og objecter\obj\Debug\KLasser og objecter.exe
+C:\Users\Christian\source\repos\KLasser og objecter\KLasser og objecter\obj\Debug\KLasser og objecter.pdb

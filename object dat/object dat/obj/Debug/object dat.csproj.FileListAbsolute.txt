@@ -1,0 +1,6 @@
+C:\Users\chris\source\repos\object dat\object dat\bin\Debug\object dat.exe.config
+C:\Users\chris\source\repos\object dat\object dat\bin\Debug\object dat.exe
+C:\Users\chris\source\repos\object dat\object dat\bin\Debug\object dat.pdb
+C:\Users\chris\source\repos\object dat\object dat\obj\Debug\object dat.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\object dat\object dat\obj\Debug\object dat.exe
+C:\Users\chris\source\repos\object dat\object dat\obj\Debug\object dat.pdb

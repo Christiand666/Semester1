@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\Skoleskema\Skoleskema\bin\Debug\Skoleskema.exe.config
+C:\Users\Christian\source\repos\Skoleskema\Skoleskema\bin\Debug\Skoleskema.exe
+C:\Users\Christian\source\repos\Skoleskema\Skoleskema\bin\Debug\Skoleskema.pdb
+C:\Users\Christian\source\repos\Skoleskema\Skoleskema\obj\Debug\Skoleskema.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Skoleskema\Skoleskema\obj\Debug\Skoleskema.exe
+C:\Users\Christian\source\repos\Skoleskema\Skoleskema\obj\Debug\Skoleskema.pdb

@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\polyprøverigen\polyprøverigen\bin\Debug\polyprøverigen.exe.config
+C:\Users\Christian\source\repos\polyprøverigen\polyprøverigen\bin\Debug\polyprøverigen.exe
+C:\Users\Christian\source\repos\polyprøverigen\polyprøverigen\bin\Debug\polyprøverigen.pdb
+C:\Users\Christian\source\repos\polyprøverigen\polyprøverigen\obj\Debug\polyprøverigen.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\polyprøverigen\polyprøverigen\obj\Debug\polyprøverigen.exe
+C:\Users\Christian\source\repos\polyprøverigen\polyprøverigen\obj\Debug\polyprøverigen.pdb

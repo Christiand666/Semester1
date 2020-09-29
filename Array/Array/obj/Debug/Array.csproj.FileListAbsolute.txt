@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\Array\Array\bin\Debug\Array.exe.config
+C:\Users\Christian\source\repos\Array\Array\bin\Debug\Array.exe
+C:\Users\Christian\source\repos\Array\Array\bin\Debug\Array.pdb
+C:\Users\Christian\source\repos\Array\Array\obj\Debug\Array.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Array\Array\obj\Debug\Array.exe
+C:\Users\Christian\source\repos\Array\Array\obj\Debug\Array.pdb

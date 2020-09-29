@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\Opgave 10.4\Opgave 10.4\bin\Debug\Opgave 10.4.exe.config
+C:\Users\Christian\source\repos\Opgave 10.4\Opgave 10.4\bin\Debug\Opgave 10.4.exe
+C:\Users\Christian\source\repos\Opgave 10.4\Opgave 10.4\bin\Debug\Opgave 10.4.pdb
+C:\Users\Christian\source\repos\Opgave 10.4\Opgave 10.4\obj\Debug\Opgave 10.4.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Opgave 10.4\Opgave 10.4\obj\Debug\Opgave 10.4.exe
+C:\Users\Christian\source\repos\Opgave 10.4\Opgave 10.4\obj\Debug\Opgave 10.4.pdb

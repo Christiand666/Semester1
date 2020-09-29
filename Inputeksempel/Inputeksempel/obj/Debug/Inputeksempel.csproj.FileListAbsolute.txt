@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\Inputeksempel\Inputeksempel\bin\Debug\Inputeksempel.exe.config
+C:\Users\Christian\source\repos\Inputeksempel\Inputeksempel\bin\Debug\Inputeksempel.exe
+C:\Users\Christian\source\repos\Inputeksempel\Inputeksempel\bin\Debug\Inputeksempel.pdb
+C:\Users\Christian\source\repos\Inputeksempel\Inputeksempel\obj\Debug\Inputeksempel.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Inputeksempel\Inputeksempel\obj\Debug\Inputeksempel.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Inputeksempel\Inputeksempel\obj\Debug\Inputeksempel.exe
+C:\Users\Christian\source\repos\Inputeksempel\Inputeksempel\obj\Debug\Inputeksempel.pdb

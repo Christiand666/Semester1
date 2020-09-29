@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\gennemgang af opgaver\gennemgang af opgaver\obj\Debug\gennemgang af opgaver.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\gennemgang af opgaver\gennemgang af opgaver\obj\Debug\gennemgang af opgaver.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\gennemgang af opgaver\gennemgang af opgaver\bin\Debug\gennemgang af opgaver.exe.config
+C:\Users\Christian\source\repos\gennemgang af opgaver\gennemgang af opgaver\bin\Debug\gennemgang af opgaver.exe
+C:\Users\Christian\source\repos\gennemgang af opgaver\gennemgang af opgaver\bin\Debug\gennemgang af opgaver.pdb
+C:\Users\Christian\source\repos\gennemgang af opgaver\gennemgang af opgaver\obj\Debug\gennemgang af opgaver.exe
+C:\Users\Christian\source\repos\gennemgang af opgaver\gennemgang af opgaver\obj\Debug\gennemgang af opgaver.pdb

@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\Array i klasser\Array i klasser\bin\Debug\Array i klasser.exe.config
+C:\Users\Christian\source\repos\Array i klasser\Array i klasser\bin\Debug\Array i klasser.exe
+C:\Users\Christian\source\repos\Array i klasser\Array i klasser\bin\Debug\Array i klasser.pdb
+C:\Users\Christian\source\repos\Array i klasser\Array i klasser\obj\Debug\Array i klasser.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Array i klasser\Array i klasser\obj\Debug\Array i klasser.exe
+C:\Users\Christian\source\repos\Array i klasser\Array i klasser\obj\Debug\Array i klasser.pdb

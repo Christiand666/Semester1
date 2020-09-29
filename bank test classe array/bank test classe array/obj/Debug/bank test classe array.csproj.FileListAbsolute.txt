@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\bank test classe array\bank test classe array\bin\Debug\bank test classe array.exe.config
+C:\Users\Christian\source\repos\bank test classe array\bank test classe array\bin\Debug\bank test classe array.exe
+C:\Users\Christian\source\repos\bank test classe array\bank test classe array\bin\Debug\bank test classe array.pdb
+C:\Users\Christian\source\repos\bank test classe array\bank test classe array\obj\Debug\bank test classe array.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\bank test classe array\bank test classe array\obj\Debug\bank test classe array.exe
+C:\Users\Christian\source\repos\bank test classe array\bank test classe array\obj\Debug\bank test classe array.pdb

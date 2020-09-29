@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\fugle\fugle\bin\Debug\fugle.exe.config
+C:\Users\Christian\source\repos\fugle\fugle\bin\Debug\fugle.exe
+C:\Users\Christian\source\repos\fugle\fugle\bin\Debug\fugle.pdb
+C:\Users\Christian\source\repos\fugle\fugle\obj\Debug\fugle.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\fugle\fugle\obj\Debug\fugle.exe
+C:\Users\Christian\source\repos\fugle\fugle\obj\Debug\fugle.pdb

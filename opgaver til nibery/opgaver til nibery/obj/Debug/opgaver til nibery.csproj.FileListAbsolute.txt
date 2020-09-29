@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\opgaver til nibery\opgaver til nibery\bin\Debug\opgaver til nibery.exe.config
+C:\Users\Christian\source\repos\opgaver til nibery\opgaver til nibery\bin\Debug\opgaver til nibery.exe
+C:\Users\Christian\source\repos\opgaver til nibery\opgaver til nibery\bin\Debug\opgaver til nibery.pdb
+C:\Users\Christian\source\repos\opgaver til nibery\opgaver til nibery\obj\Debug\opgaver til nibery.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\opgaver til nibery\opgaver til nibery\obj\Debug\opgaver til nibery.exe
+C:\Users\Christian\source\repos\opgaver til nibery\opgaver til nibery\obj\Debug\opgaver til nibery.pdb

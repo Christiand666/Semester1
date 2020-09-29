@@ -1,0 +1,9 @@
+C:\Users\Christian\source\repos\termins shit\termins shit\bin\Debug\termins shit.exe.config
+C:\Users\Christian\source\repos\termins shit\termins shit\bin\Debug\termins shit.exe
+C:\Users\Christian\source\repos\termins shit\termins shit\bin\Debug\termins shit.pdb
+C:\Users\Christian\source\repos\termins shit\termins shit\obj\Debug\termins shit.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\termins shit\termins shit\obj\Debug\termins_shit.Form1.resources
+C:\Users\Christian\source\repos\termins shit\termins shit\obj\Debug\termins_shit.Properties.Resources.resources
+C:\Users\Christian\source\repos\termins shit\termins shit\obj\Debug\termins shit.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\termins shit\termins shit\obj\Debug\termins shit.exe
+C:\Users\Christian\source\repos\termins shit\termins shit\obj\Debug\termins shit.pdb

@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\BINÆRFILERprøveeksamen\BINÆRFILERprøveeksamen\bin\Debug\BINÆRFILERprøveeksamen.exe.config
+C:\Users\Christian\source\repos\BINÆRFILERprøveeksamen\BINÆRFILERprøveeksamen\bin\Debug\BINÆRFILERprøveeksamen.exe
+C:\Users\Christian\source\repos\BINÆRFILERprøveeksamen\BINÆRFILERprøveeksamen\bin\Debug\BINÆRFILERprøveeksamen.pdb
+C:\Users\Christian\source\repos\BINÆRFILERprøveeksamen\BINÆRFILERprøveeksamen\obj\Debug\BINÆRFILERprøveeksamen.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\BINÆRFILERprøveeksamen\BINÆRFILERprøveeksamen\obj\Debug\BINÆRFILERprøveeksamen.exe
+C:\Users\Christian\source\repos\BINÆRFILERprøveeksamen\BINÆRFILERprøveeksamen\obj\Debug\BINÆRFILERprøveeksamen.pdb

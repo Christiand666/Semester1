@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\CPR-nummer\CPR-nummer\obj\Debug\CPR-nummer.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\CPR-nummer\CPR-nummer\obj\Debug\CPR-nummer.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\CPR-nummer\CPR-nummer\bin\Debug\CPR-nummer.exe.config
+C:\Users\Christian\source\repos\CPR-nummer\CPR-nummer\bin\Debug\CPR-nummer.exe
+C:\Users\Christian\source\repos\CPR-nummer\CPR-nummer\bin\Debug\CPR-nummer.pdb
+C:\Users\Christian\source\repos\CPR-nummer\CPR-nummer\obj\Debug\CPR-nummer.exe
+C:\Users\Christian\source\repos\CPR-nummer\CPR-nummer\obj\Debug\CPR-nummer.pdb

@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\Opgaver talsystem 1\Opgaver talsystem 1\bin\Debug\Opgaver talsystem 1.exe.config
+C:\Users\Christian\source\repos\Opgaver talsystem 1\Opgaver talsystem 1\bin\Debug\Opgaver talsystem 1.exe
+C:\Users\Christian\source\repos\Opgaver talsystem 1\Opgaver talsystem 1\bin\Debug\Opgaver talsystem 1.pdb
+C:\Users\Christian\source\repos\Opgaver talsystem 1\Opgaver talsystem 1\obj\Debug\Opgaver talsystem 1.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Opgaver talsystem 1\Opgaver talsystem 1\obj\Debug\Opgaver talsystem 1.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Opgaver talsystem 1\Opgaver talsystem 1\obj\Debug\Opgaver talsystem 1.exe
+C:\Users\Christian\source\repos\Opgaver talsystem 1\Opgaver talsystem 1\obj\Debug\Opgaver talsystem 1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\Opgave 12 arrays\Opgave 12 arrays\bin\Debug\Opgave 12 arrays.exe.config
+C:\Users\Christian\source\repos\Opgave 12 arrays\Opgave 12 arrays\bin\Debug\Opgave 12 arrays.exe
+C:\Users\Christian\source\repos\Opgave 12 arrays\Opgave 12 arrays\bin\Debug\Opgave 12 arrays.pdb
+C:\Users\Christian\source\repos\Opgave 12 arrays\Opgave 12 arrays\obj\Debug\Opgave 12 arrays.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Opgave 12 arrays\Opgave 12 arrays\obj\Debug\Opgave 12 arrays.exe
+C:\Users\Christian\source\repos\Opgave 12 arrays\Opgave 12 arrays\obj\Debug\Opgave 12 arrays.pdb

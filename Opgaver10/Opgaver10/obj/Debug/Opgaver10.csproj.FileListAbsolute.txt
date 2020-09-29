@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\Opgaver10\Opgaver10\bin\Debug\Opgaver10.exe.config
+C:\Users\Christian\source\repos\Opgaver10\Opgaver10\bin\Debug\Opgaver10.exe
+C:\Users\Christian\source\repos\Opgaver10\Opgaver10\bin\Debug\Opgaver10.pdb
+C:\Users\Christian\source\repos\Opgaver10\Opgaver10\obj\Debug\Opgaver10.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Opgaver10\Opgaver10\obj\Debug\Opgaver10.exe
+C:\Users\Christian\source\repos\Opgaver10\Opgaver10\obj\Debug\Opgaver10.pdb

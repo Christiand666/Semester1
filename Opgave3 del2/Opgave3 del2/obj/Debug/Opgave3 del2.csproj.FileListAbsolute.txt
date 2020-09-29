@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\Opgave3 del2\Opgave3 del2\bin\Debug\Opgave3 del2.exe.config
+C:\Users\Christian\source\repos\Opgave3 del2\Opgave3 del2\bin\Debug\Opgave3 del2.exe
+C:\Users\Christian\source\repos\Opgave3 del2\Opgave3 del2\bin\Debug\Opgave3 del2.pdb
+C:\Users\Christian\source\repos\Opgave3 del2\Opgave3 del2\obj\Debug\Opgave3 del2.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Opgave3 del2\Opgave3 del2\obj\Debug\Opgave3 del2.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Opgave3 del2\Opgave3 del2\obj\Debug\Opgave3 del2.exe
+C:\Users\Christian\source\repos\Opgave3 del2\Opgave3 del2\obj\Debug\Opgave3 del2.pdb

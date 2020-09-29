@@ -1,0 +1,14 @@
+C:\Users\Christian\source\repos\Test med dyr\Test med dyr\bin\Debug\Test med dyr.exe.config
+C:\Users\Christian\source\repos\Test med dyr\Test med dyr\bin\Debug\Test med dyr.exe
+C:\Users\Christian\source\repos\Test med dyr\Test med dyr\bin\Debug\Test med dyr.pdb
+C:\Users\Christian\source\repos\Test med dyr\Test med dyr\obj\Debug\Test med dyr.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Test med dyr\Test med dyr\obj\Debug\Test med dyr.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Test med dyr\Test med dyr\obj\Debug\Test med dyr.exe
+C:\Users\Christian\source\repos\Test med dyr\Test med dyr\obj\Debug\Test med dyr.pdb
+C:\Users\chris\source\repos\Test med dyr\Test med dyr\bin\Debug\Test med dyr.exe.config
+C:\Users\chris\source\repos\Test med dyr\Test med dyr\bin\Debug\Test med dyr.exe
+C:\Users\chris\source\repos\Test med dyr\Test med dyr\bin\Debug\Test med dyr.pdb
+C:\Users\chris\source\repos\Test med dyr\Test med dyr\obj\Debug\Test med dyr.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\Test med dyr\Test med dyr\obj\Debug\Test med dyr.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Test med dyr\Test med dyr\obj\Debug\Test med dyr.exe
+C:\Users\chris\source\repos\Test med dyr\Test med dyr\obj\Debug\Test med dyr.pdb

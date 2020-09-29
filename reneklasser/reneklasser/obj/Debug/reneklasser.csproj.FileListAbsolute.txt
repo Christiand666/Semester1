@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\reneklasser\reneklasser\bin\Debug\reneklasser.exe.config
+C:\Users\Christian\source\repos\reneklasser\reneklasser\bin\Debug\reneklasser.exe
+C:\Users\Christian\source\repos\reneklasser\reneklasser\bin\Debug\reneklasser.pdb
+C:\Users\Christian\source\repos\reneklasser\reneklasser\obj\Debug\reneklasser.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\reneklasser\reneklasser\obj\Debug\reneklasser.exe
+C:\Users\Christian\source\repos\reneklasser\reneklasser\obj\Debug\reneklasser.pdb

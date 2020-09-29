@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\Test af file\Test af file\bin\Debug\Test af file.exe.config
+C:\Users\Christian\source\repos\Test af file\Test af file\bin\Debug\Test af file.exe
+C:\Users\Christian\source\repos\Test af file\Test af file\bin\Debug\Test af file.pdb
+C:\Users\Christian\source\repos\Test af file\Test af file\obj\Debug\Test af file.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Test af file\Test af file\obj\Debug\Test af file.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Test af file\Test af file\obj\Debug\Test af file.exe
+C:\Users\Christian\source\repos\Test af file\Test af file\obj\Debug\Test af file.pdb

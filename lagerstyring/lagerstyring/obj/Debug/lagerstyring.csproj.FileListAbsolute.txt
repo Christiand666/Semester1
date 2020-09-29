@@ -1,0 +1,9 @@
+C:\Users\Christian\source\repos\lagerstyring\lagerstyring\bin\Debug\lagerstyring.exe.config
+C:\Users\Christian\source\repos\lagerstyring\lagerstyring\bin\Debug\lagerstyring.exe
+C:\Users\Christian\source\repos\lagerstyring\lagerstyring\bin\Debug\lagerstyring.pdb
+C:\Users\Christian\source\repos\lagerstyring\lagerstyring\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Christian\source\repos\lagerstyring\lagerstyring\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Christian\source\repos\lagerstyring\lagerstyring\obj\Debug\lagerstyring.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\lagerstyring\lagerstyring\obj\Debug\lagerstyring.csproj.CopyComplete
+C:\Users\Christian\source\repos\lagerstyring\lagerstyring\obj\Debug\lagerstyring.exe
+C:\Users\Christian\source\repos\lagerstyring\lagerstyring\obj\Debug\lagerstyring.pdb

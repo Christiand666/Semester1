@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\Alder (øvelse af variabler)\Alder (øvelse af variabler)\bin\Debug\Alder (øvelse af variabler).exe.config
+C:\Users\Christian\source\repos\Alder (øvelse af variabler)\Alder (øvelse af variabler)\bin\Debug\Alder (øvelse af variabler).exe
+C:\Users\Christian\source\repos\Alder (øvelse af variabler)\Alder (øvelse af variabler)\bin\Debug\Alder (øvelse af variabler).pdb
+C:\Users\Christian\source\repos\Alder (øvelse af variabler)\Alder (øvelse af variabler)\obj\Debug\Alder (øvelse af variabler).csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Alder (øvelse af variabler)\Alder (øvelse af variabler)\obj\Debug\Alder (øvelse af variabler).csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Alder (øvelse af variabler)\Alder (øvelse af variabler)\obj\Debug\Alder (øvelse af variabler).exe
+C:\Users\Christian\source\repos\Alder (øvelse af variabler)\Alder (øvelse af variabler)\obj\Debug\Alder (øvelse af variabler).pdb

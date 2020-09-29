@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\NULL\NULL\bin\Debug\NULL.exe.config
+C:\Users\Christian\source\repos\NULL\NULL\bin\Debug\NULL.exe
+C:\Users\Christian\source\repos\NULL\NULL\bin\Debug\NULL.pdb
+C:\Users\Christian\source\repos\NULL\NULL\obj\Debug\NULL.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\NULL\NULL\obj\Debug\NULL.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\NULL\NULL\obj\Debug\NULL.exe
+C:\Users\Christian\source\repos\NULL\NULL\obj\Debug\NULL.pdb

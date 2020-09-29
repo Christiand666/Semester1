@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\Listeafkunderobjectilentxt\Listeafkunderobjectilentxt\bin\Debug\Listeafkunderobjectilentxt.exe.config
+C:\Users\Christian\source\repos\Listeafkunderobjectilentxt\Listeafkunderobjectilentxt\bin\Debug\Listeafkunderobjectilentxt.exe
+C:\Users\Christian\source\repos\Listeafkunderobjectilentxt\Listeafkunderobjectilentxt\bin\Debug\Listeafkunderobjectilentxt.pdb
+C:\Users\Christian\source\repos\Listeafkunderobjectilentxt\Listeafkunderobjectilentxt\obj\Debug\Listeafkunderobjectilentxt.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Listeafkunderobjectilentxt\Listeafkunderobjectilentxt\obj\Debug\Listeafkunderobjectilentxt.exe
+C:\Users\Christian\source\repos\Listeafkunderobjectilentxt\Listeafkunderobjectilentxt\obj\Debug\Listeafkunderobjectilentxt.pdb

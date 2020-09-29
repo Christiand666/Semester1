@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\Øveshit\Øveshit\bin\Debug\Øveshit.exe.config
+C:\Users\Christian\source\repos\Øveshit\Øveshit\bin\Debug\Øveshit.exe
+C:\Users\Christian\source\repos\Øveshit\Øveshit\bin\Debug\Øveshit.pdb
+C:\Users\Christian\source\repos\Øveshit\Øveshit\obj\Debug\Øveshit.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Øveshit\Øveshit\obj\Debug\Øveshit.exe
+C:\Users\Christian\source\repos\Øveshit\Øveshit\obj\Debug\Øveshit.pdb

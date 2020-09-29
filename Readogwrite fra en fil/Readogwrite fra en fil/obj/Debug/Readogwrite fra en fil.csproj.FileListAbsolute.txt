@@ -1,0 +1,9 @@
+C:\Users\Christian\source\repos\Readogwrite fra en fil\Readogwrite fra en fil\bin\Debug\Readogwrite fra en fil.exe.config
+C:\Users\Christian\source\repos\Readogwrite fra en fil\Readogwrite fra en fil\bin\Debug\Readogwrite fra en fil.exe
+C:\Users\Christian\source\repos\Readogwrite fra en fil\Readogwrite fra en fil\bin\Debug\Readogwrite fra en fil.pdb
+C:\Users\Christian\source\repos\Readogwrite fra en fil\Readogwrite fra en fil\obj\Debug\Readogwrite fra en fil.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Readogwrite fra en fil\Readogwrite fra en fil\obj\Debug\Readogwrite_fra_en_fil.Form1.resources
+C:\Users\Christian\source\repos\Readogwrite fra en fil\Readogwrite fra en fil\obj\Debug\Readogwrite_fra_en_fil.Properties.Resources.resources
+C:\Users\Christian\source\repos\Readogwrite fra en fil\Readogwrite fra en fil\obj\Debug\Readogwrite fra en fil.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\Readogwrite fra en fil\Readogwrite fra en fil\obj\Debug\Readogwrite fra en fil.exe
+C:\Users\Christian\source\repos\Readogwrite fra en fil\Readogwrite fra en fil\obj\Debug\Readogwrite fra en fil.pdb

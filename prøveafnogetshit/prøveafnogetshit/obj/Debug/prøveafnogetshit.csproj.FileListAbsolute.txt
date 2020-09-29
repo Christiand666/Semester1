@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\prøveafnogetshit\prøveafnogetshit\bin\Debug\prøveafnogetshit.exe.config
+C:\Users\Christian\source\repos\prøveafnogetshit\prøveafnogetshit\bin\Debug\prøveafnogetshit.exe
+C:\Users\Christian\source\repos\prøveafnogetshit\prøveafnogetshit\bin\Debug\prøveafnogetshit.pdb
+C:\Users\Christian\source\repos\prøveafnogetshit\prøveafnogetshit\obj\Debug\prøveafnogetshit.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\prøveafnogetshit\prøveafnogetshit\obj\Debug\prøveafnogetshit.exe
+C:\Users\Christian\source\repos\prøveafnogetshit\prøveafnogetshit\obj\Debug\prøveafnogetshit.pdb

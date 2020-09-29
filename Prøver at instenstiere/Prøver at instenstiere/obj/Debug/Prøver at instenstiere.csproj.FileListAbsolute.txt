@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\Prøver at instenstiere\Prøver at instenstiere\bin\Debug\Prøver at instenstiere.exe.config
+C:\Users\Christian\source\repos\Prøver at instenstiere\Prøver at instenstiere\bin\Debug\Prøver at instenstiere.exe
+C:\Users\Christian\source\repos\Prøver at instenstiere\Prøver at instenstiere\bin\Debug\Prøver at instenstiere.pdb
+C:\Users\Christian\source\repos\Prøver at instenstiere\Prøver at instenstiere\obj\Debug\Prøver at instenstiere.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Prøver at instenstiere\Prøver at instenstiere\obj\Debug\Prøver at instenstiere.exe
+C:\Users\Christian\source\repos\Prøver at instenstiere\Prøver at instenstiere\obj\Debug\Prøver at instenstiere.pdb

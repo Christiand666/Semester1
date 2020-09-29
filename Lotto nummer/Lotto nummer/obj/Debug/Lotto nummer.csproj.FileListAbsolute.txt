@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\Lotto nummer\Lotto nummer\bin\Debug\Lotto nummer.exe.config
+C:\Users\Christian\source\repos\Lotto nummer\Lotto nummer\bin\Debug\Lotto nummer.exe
+C:\Users\Christian\source\repos\Lotto nummer\Lotto nummer\bin\Debug\Lotto nummer.pdb
+C:\Users\Christian\source\repos\Lotto nummer\Lotto nummer\obj\Debug\Lotto nummer.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Lotto nummer\Lotto nummer\obj\Debug\Lotto nummer.exe
+C:\Users\Christian\source\repos\Lotto nummer\Lotto nummer\obj\Debug\Lotto nummer.pdb

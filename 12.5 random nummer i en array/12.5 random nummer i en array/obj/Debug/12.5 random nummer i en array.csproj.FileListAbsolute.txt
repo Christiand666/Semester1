@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\12.5 random nummer i en array\12.5 random nummer i en array\bin\Debug\12.5 random nummer i en array.exe.config
+C:\Users\Christian\source\repos\12.5 random nummer i en array\12.5 random nummer i en array\bin\Debug\12.5 random nummer i en array.exe
+C:\Users\Christian\source\repos\12.5 random nummer i en array\12.5 random nummer i en array\bin\Debug\12.5 random nummer i en array.pdb
+C:\Users\Christian\source\repos\12.5 random nummer i en array\12.5 random nummer i en array\obj\Debug\12.5 random nummer i en array.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\12.5 random nummer i en array\12.5 random nummer i en array\obj\Debug\12.5 random nummer i en array.exe
+C:\Users\Christian\source\repos\12.5 random nummer i en array\12.5 random nummer i en array\obj\Debug\12.5 random nummer i en array.pdb

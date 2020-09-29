@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\Kunde med telefonummer\Kunde med telefonummer\obj\Debug\Kunde med telefonummer.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Kunde med telefonummer\Kunde med telefonummer\bin\Debug\Kunde med telefonummer.exe.config
+C:\Users\Christian\source\repos\Kunde med telefonummer\Kunde med telefonummer\bin\Debug\Kunde med telefonummer.exe
+C:\Users\Christian\source\repos\Kunde med telefonummer\Kunde med telefonummer\bin\Debug\Kunde med telefonummer.pdb
+C:\Users\Christian\source\repos\Kunde med telefonummer\Kunde med telefonummer\obj\Debug\Kunde med telefonummer.exe
+C:\Users\Christian\source\repos\Kunde med telefonummer\Kunde med telefonummer\obj\Debug\Kunde med telefonummer.pdb

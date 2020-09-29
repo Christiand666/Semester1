@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\klasserr og object klassen\klasserr og object klassen\bin\Debug\klasserr og object klassen.exe.config
+C:\Users\Christian\source\repos\klasserr og object klassen\klasserr og object klassen\bin\Debug\klasserr og object klassen.exe
+C:\Users\Christian\source\repos\klasserr og object klassen\klasserr og object klassen\bin\Debug\klasserr og object klassen.pdb
+C:\Users\Christian\source\repos\klasserr og object klassen\klasserr og object klassen\obj\Debug\klasserr og object klassen.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\klasserr og object klassen\klasserr og object klassen\obj\Debug\klasserr og object klassen.exe
+C:\Users\Christian\source\repos\klasserr og object klassen\klasserr og object klassen\obj\Debug\klasserr og object klassen.pdb

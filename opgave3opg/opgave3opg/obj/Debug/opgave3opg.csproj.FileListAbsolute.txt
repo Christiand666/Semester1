@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\opgave3opg\opgave3opg\bin\Debug\opgave3opg.exe.config
+C:\Users\Christian\source\repos\opgave3opg\opgave3opg\bin\Debug\opgave3opg.exe
+C:\Users\Christian\source\repos\opgave3opg\opgave3opg\bin\Debug\opgave3opg.pdb
+C:\Users\Christian\source\repos\opgave3opg\opgave3opg\obj\Debug\opgave3opg.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\opgave3opg\opgave3opg\obj\Debug\opgave3opg.exe
+C:\Users\Christian\source\repos\opgave3opg\opgave3opg\obj\Debug\opgave3opg.pdb

@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\øvemedmetoder\øvemedmetoder\bin\Debug\øvemedmetoder.exe.config
+C:\Users\Christian\source\repos\øvemedmetoder\øvemedmetoder\bin\Debug\øvemedmetoder.exe
+C:\Users\Christian\source\repos\øvemedmetoder\øvemedmetoder\bin\Debug\øvemedmetoder.pdb
+C:\Users\Christian\source\repos\øvemedmetoder\øvemedmetoder\obj\Debug\øvemedmetoder.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\øvemedmetoder\øvemedmetoder\obj\Debug\øvemedmetoder.exe
+C:\Users\Christian\source\repos\øvemedmetoder\øvemedmetoder\obj\Debug\øvemedmetoder.pdb

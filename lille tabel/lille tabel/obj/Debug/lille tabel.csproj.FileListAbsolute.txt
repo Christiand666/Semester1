@@ -1,0 +1,7 @@
+C:\Users\Christian\source\repos\lille tabel\lille tabel\bin\Debug\lille tabel.exe.config
+C:\Users\Christian\source\repos\lille tabel\lille tabel\bin\Debug\lille tabel.exe
+C:\Users\Christian\source\repos\lille tabel\lille tabel\bin\Debug\lille tabel.pdb
+C:\Users\Christian\source\repos\lille tabel\lille tabel\obj\Debug\lille tabel.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\lille tabel\lille tabel\obj\Debug\lille tabel.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\lille tabel\lille tabel\obj\Debug\lille tabel.exe
+C:\Users\Christian\source\repos\lille tabel\lille tabel\obj\Debug\lille tabel.pdb
